@@ -1,0 +1,6 @@
+.vs
+*.backup
+*.clef
+bin
+obj
+build
